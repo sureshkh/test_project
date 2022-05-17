@@ -1,0 +1,77 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse
+.project
+.settings
+.classpath
+.externalToolBuilders
+
+# IntelliJ
+.idea
+*.iml
+
+# Maven
+target
+
+# XCode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData
+*.xcworkspace
+xcuserdata
+profile
+*.hg
+/.hg/*
+dist/
+
+# Other
+.DS_Store
+.history
+*.swp
+
+node_modules
+tmp
+.tmp/
+.npm/
+assets/
+build
+.sass-cache
+.idea
+.DS_Store
+src/.DS_Store
+coverage
+karma_html
+npm-debug.log
+.npm
+node/
+/bin/
+*.pmd*
+*.checkstyle*
+
+application.properties
